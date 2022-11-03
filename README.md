@@ -1,0 +1,1 @@
+A toy model to estimate the contributions of b2 and b3 to our b1 extraction assuming a non-zero Q-vector angle. This code is an implementation of W. Cosyn et. al.'s convolution model presented in Phys. Rev. D 95, 074036 (2017) or on the arXiv at 1702.05337v3.
